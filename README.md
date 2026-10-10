@@ -1,7 +1,7 @@
 # GALS approved data catalogue
 
-Proposed repository: `Cesarito2021/global-als-catalogue`, public, branch `main`.
-Proposed manifest URL:
+Repository: `Cesarito2021/global-als-catalogue`, public, branch `main`.
+Manifest URL:
 `https://raw.githubusercontent.com/Cesarito2021/global-als-catalogue/main/catalogue.json`
 
 This repository contains approved discovery metadata only. R package code is
@@ -33,4 +33,5 @@ Failure keeps the last complete local snapshot with a warning. Removing an
 entry from the next manifest withdraws it from refreshed discovery. Offline
 copies and Git history can retain previously published public metadata.
 
-This is prepared local content. The repository and endpoint are not yet deployed.
+The public HTTPS endpoint serves this metadata. The root catalogue stays empty
+until a maintainer explicitly approves and publishes production contributions.
