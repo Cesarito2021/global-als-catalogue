@@ -1,0 +1,10 @@
+{
+  "schema": "gals-catalogue-v1",
+  "indexes": [
+    {
+      "path": "indexes/5e368dcffd96e5fc91da8ce038f7e4816e258deeec0bdf0919feb14531e87440.tiles.geojson",
+      "sha256": "5e368dcffd96e5fc91da8ce038f7e4816e258deeec0bdf0919feb14531e87440",
+      "size_bytes": 55915
+    }
+  ]
+}
