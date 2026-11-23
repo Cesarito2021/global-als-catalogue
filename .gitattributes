@@ -1,0 +1,6 @@
+# Indexes are content-addressed (SHA-256 of the exact bytes): never convert line endings.
+indexes/** -text
+verification/indexes/** -text
+catalogue.json -text
+verification/catalogue.json -text
+sources.json -text
