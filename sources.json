@@ -1,0 +1,67 @@
+{
+  "schema": "gals-catalogue-sources-v1",
+  "generated_from": "GALSdownloadeR audited bundled indexes",
+  "excluded": [
+    {
+      "url": "https://zenodo.org/records/15467265/files/2014_JAM.zip",
+      "reason": "owner exclusion, 2026-11-23"
+    }
+  ],
+  "indexes": [
+    {
+      "path": "indexes/52dcf0424a8dbf45f09d8f1e451008a0087d5df6c3ee3af894d708c1a9fdaddc.tiles.geojson",
+      "sha256": "52dcf0424a8dbf45f09d8f1e451008a0087d5df6c3ee3af894d708c1a9fdaddc",
+      "origin": "GALSdownloadeR/inst/extdata/source-indexes/forestscan-lope-v2.tiles.geojson",
+      "source_family": "ForestScan Lope UAV-LS Version 2.0",
+      "rows": 150,
+      "attribution": "McNicol; Mitchard; Chavana-Bryant; Wilkes; Disney (2025); NERC EDS CEDA",
+      "reference": "10.5285/a79fcb9ab0c443fc86d453cc064759b1",
+      "reviewed_on": "2026-11-23",
+      "package_version": "0.2.9"
+    },
+    {
+      "path": "indexes/a9f7860874724b7d42526889803089b6580c6c1d99cf8977d8c8b0f321ffd463.tiles.geojson",
+      "sha256": "a9f7860874724b7d42526889803089b6580c6c1d99cf8977d8c8b0f321ffd463",
+      "origin": "GALSdownloadeR/inst/extdata/source-indexes/epena-zenodo.tiles.geojson",
+      "source_family": "Epena-Ekolongouma UAV lidar",
+      "rows": 2,
+      "attribution": "Davenport; McNicol (2025)",
+      "reference": "10.5281/zenodo.15730706",
+      "reviewed_on": "2026-11-23",
+      "package_version": "0.2.9"
+    },
+    {
+      "path": "indexes/b96aa2aa20b650a68b3fdd8e013b9cf1124b09b398f1d719b765b0d5477c8b04.tiles.geojson",
+      "sha256": "b96aa2aa20b650a68b3fdd8e013b9cf1124b09b398f1d719b765b0d5477c8b04",
+      "origin": "GALSdownloadeR/inst/extdata/source-indexes/sfb-zenodo-record-shapefiles.tiles.geojson",
+      "source_family": "Servico Florestal Brasileiro (SFB) national-forest lidar",
+      "rows": 6,
+      "attribution": "Servico Florestal Brasileiro; Jose Humberto Chaves",
+      "reference": "One DOI per Zenodo record (63 records; e.g. 10.5281/zenodo.15587694)",
+      "reviewed_on": "2026-11-23",
+      "package_version": "0.2.9"
+    },
+    {
+      "path": "indexes/c0ccc619cc0c404ce5f6139e662d3c0fa7a09f673193cb1d944fe6f0344ec6de.tiles.geojson",
+      "sha256": "c0ccc619cc0c404ce5f6139e662d3c0fa7a09f673193cb1d944fe6f0344ec6de",
+      "origin": "GALSdownloadeR/inst/extdata/source-indexes/sensoforest-uav.tiles.geojson",
+      "source_family": "SensOFOREST UAV lidar",
+      "rows": 3,
+      "attribution": "Carrara; Gomez-Gutierrez; Sanchez-Fernandez; Moreno (2026)",
+      "reference": "10.5281/zenodo.20000277",
+      "reviewed_on": "2026-11-23",
+      "package_version": "0.2.9"
+    },
+    {
+      "path": "indexes/c9aab7f699494c0adf39b914afc70d913f73fea093712ccd15e0b14cb184278b.tiles.geojson",
+      "sha256": "c9aab7f699494c0adf39b914afc70d913f73fea093712ccd15e0b14cb184278b",
+      "origin": "GALSdownloadeR/inst/extdata/source-indexes/sfb-zenodo.tiles.geojson",
+      "source_family": "Servico Florestal Brasileiro (SFB) national-forest lidar",
+      "rows": 221,
+      "attribution": "Servico Florestal Brasileiro; Jose Humberto Chaves",
+      "reference": "One DOI per Zenodo record (63 records; e.g. 10.5281/zenodo.15587694)",
+      "reviewed_on": "2026-11-23",
+      "package_version": "0.2.9"
+    }
+  ]
+}
